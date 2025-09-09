@@ -7,7 +7,7 @@ You need a raspberry pi with wireless conmnection likw the Raspberry Pi Zero W, 
 
 # Setup
 
-1. Clone or download the repository, then create a new venv environment and install the required packages.
+1. Clone or download the repository onto your Raspberry Pi, then create a new venv environment and install the required packages.
 
 2. Replace the OpenAI key string with your own key
 
